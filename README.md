@@ -83,4 +83,4 @@ The dashboard helps identify:
 * Product categories associated with delayed orders
 
 8. Dasboard Preview
-   
+   https://github.com/anju-sin24/E-commerce-Sales-Analytics/blob/main/Power%20BI_Dashboard.png
