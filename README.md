@@ -1,4 +1,4 @@
-🛍️ ShopNest E-Commerce Sales Dashboard | Power BI
+ShopNest E-Commerce Sales Dashboard | Power BI
 
 1. Project Overview -
 ShopNest is an interactive Power BI dashboard created to analyze e-commerce sales, orders, customer ratings, payment methods, and delivery performance.
@@ -26,11 +26,11 @@ and explore different aspects of e-commerce performance.
 
 4. Tools & Technologies -
 
-* 📊 Power BI Desktop – Dashboard creation and data visualization
-* 🔄 Power Query – Data cleaning and transformation
-* 🧮 DAX – Calculated measures and business calculations
-* 🗂️ Data Modeling – Creating relationships between tables
-* 📁 File Formats – .pbix for Power BI development and .png for dashboard preview
+* Power BI Desktop – Dashboard creation and data visualization
+* Power Query – Data cleaning and transformation
+* DAX – Calculated measures and business calculations
+* Data Modeling – Creating relationships between tables
+* File Formats – .pbix for Power BI development and .png for dashboard preview
 
 5. Data Source -
 Source: Excel files containing e-commerce sales and order data.
@@ -38,7 +38,7 @@ The datasets include information related to orders, products, sales, customers, 
 
 6. Features / Highlights -
 
-📌 Key KPIs -
+Key KPIs -
 The dashboard displays:
 
 * Total Revenue: 13.59M
@@ -46,26 +46,26 @@ The dashboard displays:
 * Delay Percentage: 7.87%
 * Average Rating: 4.07
 
-📊 Sales Analysis -
+Sales Analysis -
 
 * Top 10 categories by total sales
 * State-wise total sales performance
 * Quarterly seasonal sales patterns
 * Year-wise revenue analysis
 
-🚚 Delivery Analysis -
+Delivery Analysis -
 
 * Monthly delayed vs. on-time orders
 * Delayed orders by product category
 * Overall delay percentage
 
-⭐ Customer & Product Analysis -
+Customer & Product Analysis -
 
 * Top 10 highest-rated products
 * Bottom 10 product rating analysis
 * Average customer rating
 
-💳 Payment Analysis -
+Payment Analysis -
 
 * Distribution of orders by payment method
 * Comparison of major payment types
